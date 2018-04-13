@@ -1,0 +1,4 @@
+name: himm-product-loader
+recipe: drupal8
+config:
+  webroot: web
